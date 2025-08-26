@@ -1,0 +1,5 @@
+print(f'A soma de 10 + 2 é {10 + 2}')
+print(f'A subtração de 10 - 2 é {10 - 2}')
+print(f'A multiplicação de 10 * 2 é {10 * 2}')
+print(f'O exponencial de 10² é {10 ** 2}')
+print(f'A divisão de 10 / 2 é {10 / 2}') 

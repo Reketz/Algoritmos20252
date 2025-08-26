@@ -1,0 +1,5 @@
+print('Meu nome é Guilherme')
+print('Soma de 5 + 5 é:', 5 + 5)
+print('Subtração de 21 - 22 é:', 21 - 22)
+print('Divisão de 10 / 2 é:', 10 / 2)
+print('Multiplicação de 2 x 5 é:', 2 * 5)
